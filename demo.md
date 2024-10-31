@@ -26,6 +26,7 @@ cp argocd/cnpg.yaml infra/.
 
 git add infra
 
+
 git commit -m "CPNG"
 
 git push
